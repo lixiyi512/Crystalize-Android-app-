@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Crystalize</string>
+    <string name="Q1">The fan-named "Jump Man" from the original Donkey Kong video game is now known as who?</string>
+    <string name="A1">mario</string>
+    <string name="H1">He has a brother named Luigi.</string>
+    <string name="Q2">In what year was Windows XP released?</string>
+    <string name="A2">2001</string>
+    <string name="H2">”A Space Odyssey“</string>
+    <string name="Q3">What city does Batman protect?</string>
+    <string name="A3">gotham city</string>
+    <string name="H3">Home of the Batman</string>
+    <string name="Q4">Live long and [fill in the blank]</string>
+    <string name="A4">prosper</string>
+    <string name="H4">"Star Trek"</string>
+</resources>

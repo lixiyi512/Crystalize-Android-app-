@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_5c7f63c4488b2136ad52f0ac88ed80255b7c6ac0.jar" />
+    </item>
+    <item
+        jar="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b84d7832a59ef4bdcb3d35f786307b60e1be121f.jar" />
+    </item>
+    <item
+        jar="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_bde943ce7baae3b456bc44a2fc71ec80cb8ed5e3.jar" />
+    </item>
+    <item
+        jar="/Users/Ivy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Ivy/Documents/Ivy/2016Spring/E-business/Android/Crystalize/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_62acf52198e747440409ada148745dcea90e87c1.jar" />
+    </item>
+
+</items>
